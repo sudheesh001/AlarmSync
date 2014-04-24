@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__38-[KSSAlarmsViewController viewDidLoad]_block_invoke:KSSAlarmsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[a time]">
+            </PersistentString>
+            <PersistentString
+               value = "[b time]">
+            </PersistentString>
+            <PersistentString
+               value = "[aComponents date]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KSSDeviceDetailsViewController closeView:]:KSSDeviceDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self navigationController]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KSSRootViewController viewDidLoad]:KSSRootViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self viewControllers]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KSSAddAlarmViewController saveAlarm:]:KSSAddAlarmViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[NSDate date]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KSSAlarmsViewController viewDidLoad]:KSSAlarmsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mutableFetchResults[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__32-[KSSAppDelegate scheduleAlarm:]_block_invoke:KSSAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "notification">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KSSAppDelegate application:didFinishLaunchingWithOptions:]:KSSAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.window.rootViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KSSAlarmsViewController insertAlarm:]:KSSAlarmsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self tableView:self.tableView numberOfRowsInSection:0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KSSEditAlarmViewController viewDidLoad]:KSSEditAlarmViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.alarm">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KSSDevicesViewController bluetoothController:didDisconnectFromPeripheral:]:KSSDevicesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((Device *)nearbyArray.firstObject).uuid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KSSAppDelegate scheduleAlarm:]:KSSAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "alarm.isSet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KSSAlarmsViewController toggleAlarmSet:]:KSSAlarmsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[sender superview]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
